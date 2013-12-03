@@ -1,25 +1,19 @@
 <h2>Login</h2>
 <div class="well col-sm-8">
-	<form class="form-horizontal" role="form">
+<form role="form">
   <div class="form-group">
-    <label class="col-sm-2 control-label">Nutzername</label>
-    <div class="col-sm-10">
-      <input type="email" class="form-control" id="Nutzername" placeholder="Nutzername">
-    </div>
+    <label for="InputUser1">Nutzername</label>
+    <input class="form-control" id="InputUser1" placeholder="Nutzername">
   </div>
   <div class="form-group">
-    <label class="col-sm-2 control-label">Passwort</label>
-    <div class="col-sm-10">
-      <input type="password" class="form-control" id="Passwort" placeholder="Passwort">
-    </div>
+    <label for="InputPasswort1">Password</label>
+    <input type="password" class="form-control" id="InputPasswort1" placeholder="Passwort">
   </div>
 
-  <div class="form-group">
-    <div class="col-sm-offset-2 col-sm-10">
-      <button type="submit" class="btn btn-default">Sign in</button>
-    </div>
-  </div>
+
+  <button type="submit" class="btn btn-default">Anmelden</button>
 </form>
+
 
   
  </div>
