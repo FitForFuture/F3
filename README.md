@@ -7,3 +7,4 @@ Projekt Webseite
 
 Ohne Ö fehlt dir was
 
+Mit Ö fehlt dir nichts!
