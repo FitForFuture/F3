@@ -1,7 +1,9 @@
 Projekt Webseite
 ==
 
-
+Wie erstelle ich eine Seite?
+- PHP-Datei in Main-Ordner erstellen
+- PHP-Datei in main.php mit der URL registrieren, wie bei FAQ und Login.
 
 Changelog
 
