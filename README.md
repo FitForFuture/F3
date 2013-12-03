@@ -2,7 +2,6 @@ Fit For Future : F³
 ====
 
 Projekt Logbuch
-==
 
 Datum       Zeit  : Kommentar / Aufgabe
 
