@@ -1,4 +1,7 @@
-<? include "head.php"; ?>
+<? 
+include "func.php"; 
+include "head.php"; 
+?>
 <body>
 <div class="container"> 
   
@@ -12,23 +15,10 @@
           <? include "main.php";?>
         </div><!--/span-->
 
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-          <div class="list-group">
-            <a href="#" class="list-group-item active">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-          </div>
+        <div class="col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+          <? include "sidebar.php";?>
         </div><!--/span-->
       </div><!--/row-->
-
-      
 
       <? include "footer.php"; ?>
 
