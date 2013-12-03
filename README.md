@@ -1,13 +1,11 @@
-F3
+Fit For Future : F³
+====
+
+Projekt Logbuch
 ==
 
-Projekt Webseite
+Datum       Zeit  : Kommentar / Aufgabe
 
-03.12.2013 10:33 : Erstellen des Repository
-
-Ohne Ö fehlt dir was
-
-<<<<<<< HEAD
-magalo =======
-Mit Ö fehlt dir nichts!
->>>>>>> 30be4348b5d84ecfdca109e67fa4e638c1309983
+03.12.2013  10:33 : Erstellen des Repository
+03.12.2013  11:33 : Anlegen von XAMPP -> Server
+03.12.2013  11:34 : Download... Pause wegen langsamen Internet
