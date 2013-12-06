@@ -63,7 +63,7 @@
   <div class="col-md-6 ">
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h3 class="panel-title">Benachrichtigungs-Einstellung</h3>
+      <h3 class="panel-title">Initial Initial </h3>
     </div>
     <div class="panel-body">
    <p><a class="btn btn-default" href="#">Initial Link</a></p>
