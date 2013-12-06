@@ -10,6 +10,8 @@
         <ul id="menu-header" class="nav navbar-nav">
           <li id="" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"> <a href="http://localhost/index.php?do=login">Login</a></li>
           <li id="" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"> <a href="http://localhost/index.php?do=faq">FAQ</a></li>
+          <li id="" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"> <a href="http://localhost/index.php?do=Mein_Konto">Mein Konto</a></li>
+          
         </ul>
       </div>
     </div>
