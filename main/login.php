@@ -11,7 +11,7 @@
   </div>
 
 
-  <button type="submit" class="btn btn-default">Anmelden</button>
+  <button type="submit" class="btn btn-default">Anmelden</button> </br><a href="http://localhost/index.php?do=pw_vergessen"><small>Passwort vergessen?</small></a>
 </form>
 
 
